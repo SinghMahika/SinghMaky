@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinghMaky
-- 👀 I’m interested in learning something new everyday
-- 🌱 I’m currently learning machine Learning
+- 👀 I’m interested in learning something new every day
+- 🌱 I’m currently learning Data Science
 - 📫 You can reach me at msmahikasingh18j@outlook.com
 
 <!---
